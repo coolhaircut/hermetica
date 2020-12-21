@@ -212,48 +212,50 @@ For this cause I believe, and I bear witness; I go to Life and Light. Blessed ar
 ## II. To Asclepius
 
 ### Notes on the text
-This dialogue sets forth the difference between the physical and metaphysical worlds in the context of Greek natural philosophy. Some of the language is fairly technical: the "errant spheres" of sections 6 and 7 are the celestial spheres carrying the planets, while the "inerrant sphere" is that of the fixed stars. It is useful to keep in mind, also, that "air" and "spirit" are interchangeable concepts in Greek thought, and that the concept of the Good has a range of implications which don't come across in the English word: one is that the good of any being, in Greek thought, was also that being's necessary goal.*
+*This dialogue sets forth the difference between the physical and metaphysical worlds in the context of Greek natural philosophy. Some of the language is fairly technical: the "errant spheres" of sections 6 and 7 are the celestial spheres carrying the planets, while the "inerrant sphere" is that of the fixed stars. It is useful to keep in mind, also, that "air" and "spirit" are interchangeable concepts in Greek thought, and that the concept of the Good has a range of implications which don't come across in the English word: one is that the good of any being, in Greek thought, was also that being's necessary goal.*
 
-[](#1) Hermes: All that is moved, Asclepius, is it not moved in something and by something?
-Asclepius: Assuredly.
+[](#1)**Hermes**: All that is moved, Asclepius, is it not moved in something and by something?
 
-Hermes: And must not that in which it's moved be greater than the moved?
 
-Asclepius: It must.
+**Asclepius**: Assuredly.
 
-Hermes: Mover, again, has greater power than moved?
+**Hermes**: And must not that in which it's moved be greater than the moved?
 
-Asclepius: It has, of course.
+**(Asclepius)**: It must.
 
-Hermes: The nature, furthermore, of that in which it's moved must be quite other from the nature of the moved?
+**Hermes**: Mover, again, has greater power than moved?
 
-Asclepius: It must completely.
+**Asclepius**: It has, of course.
 
-[](#2)H: Is not, again, this cosmos vast, (so vast) that than it there exists no body greater?
+**Hermes**: The nature, furthermore, of that in which it's moved must be quite other from the nature of the moved?
 
-Asclepius: Assuredly.
+**Asclepius**: It must completely.
 
-Hermes: And massive, too, for it is crammed with multitudes of other mighty frames, nay, rather all the other bodies that there are?
+[](#2)**Hermes**: Is not, again, this cosmos vast, (so vast) that than it there exists no body greater?
 
-Asclepius: It is.
+**Asclepius**: Assuredly.
 
-Hermes: And yet the cosmos is a body?
+**Hermes**: And massive, too, for it is crammed with multitudes of other mighty frames, nay, rather all the other bodies that there are?
 
-Asclepius: It is a body.
+**Asclepius**: It is.
 
-Hermes: And one that's moved?
+**Hermes**: And yet the cosmos is a body?
 
-[](#3)A: Assuredly.
+**Asclepius**: It is a body.
 
-Hermes: Of what size, then, must be the space in which it's moved, and of what kind (must be) the nature (of that space)? Must it not be far vaster (than the cosmos), in order that it may be able to find room for its continued course, so that the moved may not be cramped for want of room and lose its motion?
+**Hermes**: And one that's moved?
 
-Asclepius: Something, Thrice-greatest one, it needs must be, immensely vast.
+[](#3)**Asclepius**: Assuredly.
 
-[](#4)H: And of what nature? Must it not be, Asclepius, of just the contrary? And is not contrary to body bodiless?
+**Hermes**: Of what size, then, must be the space in which it's moved, and of what kind (must be) the nature (of that space)? Must it not be far vaster (than the cosmos), in order that it may be able to find room for its continued course, so that the moved may not be cramped for want of room and lose its motion?
 
-Asclepius: Agreed.
+**Asclepius**: Something, Thrice-greatest one, it needs must be, immensely vast.
 
-Hermes: Space, then, is bodiless. But bodiless must either be some godlike thing or God (Himself). And by "some godlike thing" I mean no more the generable (i.e., that which is generated) but the ingenerable.
+[](#4)**Hermes**: And of what nature? Must it not be, Asclepius, of just the contrary? And is not contrary to body bodiless?
+
+**Asclepius**: Agreed.
+
+**Hermes**: Space, then, is bodiless. But bodiless must either be some godlike thing or God (Himself). And by "some godlike thing" I mean no more the generable (i.e., that which is generated) but the ingenerable.
 
 [](#5)If, then, space be some godlike thing, it is substantial; but if 'tis God (Himself), it transcends substance. But it is to be thought of otherwise (than God), and in this way.
 
@@ -263,71 +265,71 @@ God is first "thinkable" (or "intelligible") for us, not for Himself, for that t
 
 Further, all that is moved is moved not in the moved but in the stable. And that which moves (another) is of course stationary, for 'tis impossible that it should move with it.
 
-Asclepius: How is it, then, that things down here, Thrice-greatest one, are moved with those that are (already) moved? For thou hast said the errant spheres were moved by the inerrant one.
+**Asclepius**: How is it, then, that things down here, Thrice-greatest one, are moved with those that are (already) moved? For thou hast said the errant spheres were moved by the inerrant one.
 
-Hermes: This is not, O Asclepius, a moving with, but one against; they are not moved with one another, but one against the other. It is this contrariety which turneth the resistance of their motion into rest. For that resistance is the rest of motion.
+**Hermes**: This is not, O Asclepius, a moving with, but one against; they are not moved with one another, but one against the other. It is this contrariety which turneth the resistance of their motion into rest. For that resistance is the rest of motion.
 
 [](#7)Hence, too, the errant spheres, being moved contrarily to the inerrant one, are moved by one another by mutual contrariety, (and also) by the spable one through contrariety itself. And this can otherwise not be.
 
 The Bears up there (i.e., Ursa Major and Minor), which neither set nor rise, think'st thou they rest or move?
 
-Asclepius: They move, Thrice-greatest one.
+**Asclepius**: They move, Thrice-greatest one.
 
-Hermes: And what their motion, my Asclepius?
+**Hermes**: And what their motion, my Asclepius?
 
-Asclepius: Motion that turns for ever round the same.
+**Asclepius**: Motion that turns for ever round the same.
 
-Hermes: But revolution - motion around same - is fixed by rest. For "round-the-same" doth stop "beyond-same". "Beyond-same" then, being stopped, if it be steadied in "round-same" - the contrary stands firm, being rendered ever stable by its contrariety.
+**Hermes**: But revolution - motion around same - is fixed by rest. For "round-the-same" doth stop "beyond-same". "Beyond-same" then, being stopped, if it be steadied in "round-same" - the contrary stands firm, being rendered ever stable by its contrariety.
 
 [](#8)Of this I'll give thee here on earth an instance, which the eye can see. Regard the animals down here - a man, for instance, swimming! The water moves, yet the resistance of his hands and feet give him stability, so that he is not borne along with it, nor sunk thereby.
 
-Asclepius: Thou hast, Thrice-greatest one, adduced a most clear instance.
+**Asclepius**: Thou hast, Thrice-greatest one, adduced a most clear instance.
 
-Hermes: All motion, then, is caused in station and by station.
+**Hermes**: All motion, then, is caused in station and by station.
 
 The motion, therefore, of the cosmos (and of every other hylic (i.e., material) animal) will not be caused by things exterior to the cosmos, but by things interior (outward) to the exterior - such (things) as soul, or spirit, or some such other thing incorporeal.
 
 'Tis not the body that doth move the living thing in it; nay, not even the whole (body of the universe a lesser) body e'en though there be no life in it.
 
-[](#9)A: What meanest thou by this, Thrice-greatest one? Is it not bodies, then, that move the stock and stone and all the other things inanimate?
+[](#9)**Asclepius**: What meanest thou by this, Thrice-greatest one? Is it not bodies, then, that move the stock and stone and all the other things inanimate?
 
-Hermes: By no means, O Asclepius. The something-in-the-body, the that-which-moves the thing inanimate, this surely's not a body, for that it moves the two of them - both body of the lifter and the lifted? So that a thing that's lifeless will not move a lifeless thing. That which doth move (another thing) is animate, in that it is the mover.
+**Hermes**: By no means, O Asclepius. The something-in-the-body, the that-which-moves the thing inanimate, this surely's not a body, for that it moves the two of them - both body of the lifter and the lifted? So that a thing that's lifeless will not move a lifeless thing. That which doth move (another thing) is animate, in that it is the mover.
 
 Thou seest, then, how heavy laden is the soul, for it alone doth lift two bodies. That things, moreover, moved are moved in something as well as moved by something is clear.
 
-[](#10)A: Yea, O Thrice-greatest one, things moved must needs be moved in something void.
+[](#10)**Asclepius**: Yea, O Thrice-greatest one, things moved must needs be moved in something void.
 
-Hermes: Thou sayest well, O (my) Asclepius! For naught of things that are is void. Alone the "is-not" is void (and) stranger to subsistence. For that which is subsistent can never change to void.
+**Hermes**: Thou sayest well, O (my) Asclepius! For naught of things that are is void. Alone the "is-not" is void (and) stranger to subsistence. For that which is subsistent can never change to void.
 
-Asclepius: Are there, then, O Thrice-greatest one, no such things as an empty cask, for instance, and an empty jar, a cup and vat, and other things like unto them?
+**Asclepius**: Are there, then, O Thrice-greatest one, no such things as an empty cask, for instance, and an empty jar, a cup and vat, and other things like unto them?
 
-Hermes: Alack, Asclepius, for thy far-wandering from the truth! Think'st thou that things most full and most replete are void?
+**Hermes**: Alack, Asclepius, for thy far-wandering from the truth! Think'st thou that things most full and most replete are void?
 
-[](#11)A: How meanest thou, Thrice-greatest one?
+[](#11)**Asclepius**: How meanest thou, Thrice-greatest one?
 
-Hermes: Is not air body?
+**Hermes**: Is not air body?
 
-Asclepius: It is.
+**Asclepius**: It is.
 
-Hermes: And doth this body not pervade all things, and so, pervading, fill them? And "body"; doth body not consist from blending of the "four" (elements)? Full, then, of air are all thou callest void; and if of air, then of the "four".
+**Hermes**: And doth this body not pervade all things, and so, pervading, fill them? And "body"; doth body not consist from blending of the "four" (elements)? Full, then, of air are all thou callest void; and if of air, then of the "four".
 
 Further, of this the converse follows, that all thou callest full are void - of air; for that they have their space filled out with other bodies, and, therefore, are not able to receive the air therein. These, then, which thou dost say are void, they should be hollow named, not void; for they not only are, but they are full of air and spirit.
 
-[](#12)A: Thy argument (logos), Thrice-greatest one, is not to be gainsaid; air is a body. Further, it is this body which doth pervade all things, and so, pervading, fill them. What are we, then, to call that space in which the all doth move?
+[](#12)**Asclepius**: Thy argument (logos), Thrice-greatest one, is not to be gainsaid; air is a body. Further, it is this body which doth pervade all things, and so, pervading, fill them. What are we, then, to call that space in which the all doth move?
 
-Hermes: The bodiless, Asclepius.
+**Hermes**: The bodiless, Asclepius.
 
-Asclepius: What, then, is Bodiless?
+**Asclepius**: What, then, is Bodiless?
 
-Hermes: 'Tis Mind and Reason (logos), whole out of whole, all self-embracing, free from all body, from all error free, unsensible to body and untouchable, self stayed in self, containing all, preserving those that are, whose rays, to use a likeness, are Good, Truth, Light beyond light, the Archetype of soul.
+**Hermes**: 'Tis Mind and Reason (logos), whole out of whole, all self-embracing, free from all body, from all error free, unsensible to body and untouchable, self stayed in self, containing all, preserving those that are, whose rays, to use a likeness, are Good, Truth, Light beyond light, the Archetype of soul.
 
-Asclepius: What, then, is God?
+**Asclepius**: What, then, is God?
 
-[](#13)H: Not any one of these is He; for He it is that causeth them to be, both all and each and every thing of all that are. Nor hath He left a thing beside that is-not; but they are all from things-that-are and not from things-that-are-not. For that the things-that-are-not have naturally no power of being anything, but naturally have the power of the inability-to-be. And, conversely, the things-that-are have not the nature of some time not-being.
+[](#13)**Hermes**: Not any one of these is He; for He it is that causeth them to be, both all and each and every thing of all that are. Nor hath He left a thing beside that is-not; but they are all from things-that-are and not from things-that-are-not. For that the things-that-are-not have naturally no power of being anything, but naturally have the power of the inability-to-be. And, conversely, the things-that-are have not the nature of some time not-being.
 
-[](#14)A: What say'st thou ever, then, God is?
+[](#14)**Asclepius**: What say'st thou ever, then, God is?
 
-Hermes: God, therefore, is not Mind, but Cause that the Mind is; God is not Spirit, but Cause that Spirit is; God is not Light, but Cause that the Light is. Hence one should honor God with these two names (the Good and Father) - names which pertain to Him alone and no one else.
+**Hermes**: God, therefore, is not Mind, but Cause that the Mind is; God is not Spirit, but Cause that Spirit is; God is not Light, but Cause that the Light is. Hence one should honor God with these two names (the Good and Father) - names which pertain to Him alone and no one else.
 
 For no one of the other so-called gods, no one of men, or daimones, can be in any measure Good, but God alone; and He is Good alone and nothing else. The rest of things are separable all from the Good's nature; for (all the rest) are soul and body, which have no place that can contain the Good.
 
